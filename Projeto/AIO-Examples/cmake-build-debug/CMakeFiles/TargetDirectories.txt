@@ -1,0 +1,3 @@
+/Volumes/KrugerDrive/kleberkruger/Cloud/Box Sync/SourceCode/Git/GitHub/Exemplos/AIO-Examples/Projeto/AIO-Examples/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Volumes/KrugerDrive/kleberkruger/Cloud/Box Sync/SourceCode/Git/GitHub/Exemplos/AIO-Examples/Projeto/AIO-Examples/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/KrugerDrive/kleberkruger/Cloud/Box Sync/SourceCode/Git/GitHub/Exemplos/AIO-Examples/Projeto/AIO-Examples/cmake-build-debug/CMakeFiles/AIO_Examples.dir
